@@ -1,0 +1,29 @@
+@import './utils/variables.scss';
+@import './pages/Register/register.scss';
+@import './pages/Home/home.scss';
+
+body{
+  color: white;
+}
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@mixin mobile{
+  @media screen and (max-width: 480px){
+    @content;
+  }
+}
+@mixin tablet{
+  @media screen and (max-width: 768px){
+    @content;
+  }
+}
+@mixin laptop{
+  @media screen and (max-width: 1200px){
+    @content;
+  }
+}
