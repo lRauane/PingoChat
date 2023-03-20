@@ -57,7 +57,7 @@ function Register() {
   return (
     <div className="RegisterForm__container">
       <div className="formWrapper">
-        <form onSubmit={handleSubmit}>
+        <form>
           <input type="text" placeholder="Digite seu nome" />
           <input type="email" placeholder="Digite seu E-mail" />
           <input type="password" placeholder="Digite sua senha..." autoComplete="on" />
