@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Firebase
 
 ## 🚧 Projeto 
-Projeto de chat para se divertir com amigos e família, enviar memes e mensagens de forma dinamica e rápida. O nome pingoChat vem originalmente do apelido que dei a minha afilhada "pinguizinha" (dinda te ama pinguizinha haha♥) dai nasceu a logo "pingoChat🐧".
+Projeto de chat para se divertir com amigos e família, enviar memes e mensagens de forma dinamica e rápida.
 
 ## 🎨 UI Design:
 
